@@ -1,5 +1,5 @@
 # Assignment03-Flask-and-MongoDB
-# Assignment 03: Flask and MongoDB Web Application
+
 
 This project is a simple web application built with Python and the Flask framework. It demonstrates two key functionalities: creating a basic API endpoint and handling web form submissions with a database connection.
 
