@@ -30,8 +30,8 @@ To run this project locally, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/Assignment03---Flask-and-MongoDB.git](https://github.com/your-username/your-repository-name.git)
-    cd your-repository-name
+    git clone [https://github.com/your-username/Assignment03---Flask-and-MongoDB.git]
+    cd Assignment03---Flask-and-MongoDB
     ```
 
 2.  **Create a virtual environment (recommended):**
